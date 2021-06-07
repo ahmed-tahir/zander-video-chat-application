@@ -1,0 +1,9 @@
+## package.json files
+package-lock.json
+
+# Node.js Tools for Visual Studio
+.ntvs_analysis.dat
+node_modules/
+
+# JS related files
+.jshintrc
